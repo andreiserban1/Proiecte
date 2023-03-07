@@ -1,6 +1,0 @@
-ID-ul utilizatorului: 1
-Numele utilizatorului: Popescu
-Initiala utilizatorului: D
-Prenumele utilizatorului: Lucian
-Varsta utilizatorului: 18
-CNP-ul utilizatorului: 5.040309.354669
