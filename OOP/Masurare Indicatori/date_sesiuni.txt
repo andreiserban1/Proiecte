@@ -1,0 +1,26 @@
+ ___________________________________
+| > ID: 1
+| > Nume: Popescu
+| > Initiala: V
+| > Prenume: Ion
+| > Varsta: 25
+| > CNP-ul: 5.950808.987654
+|___________________________________
+| > Username: popescu.ion77
+| > Parola: admin
+| > Captcha:  identitate verificata! 
+|___________________________________
+
+ ___________________________________
+| > ID: 2
+| > Nume: Stefan
+| > Initiala: P
+| > Prenume: Vlad
+| > Varsta: 18
+| > CNP-ul: 1.040309.354669
+|___________________________________
+| > Username: stefan.vlad01
+| > Parola: parola1234
+| > Captcha:  identitate verificata! 
+|___________________________________
+
